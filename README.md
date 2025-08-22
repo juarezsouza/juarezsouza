@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is juarez Souza</p>
+<p align="left">Juarez Souza</p>
 
 ###
 
