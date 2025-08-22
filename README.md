@@ -1,8 +1,4 @@
-<h1 align="left">Hey 👋 What's up?</h1>
-
-###
-
-<p align="left">Prazer Juarez</p>
+<h1 align="left">ola eu sou Juarez</h1>
 
 ###
 
