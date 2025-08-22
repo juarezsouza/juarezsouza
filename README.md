@@ -1,12 +1,16 @@
-<h1 align="left">ola eu sou Juarez</h1>
+<h1 align="left"></h1>
 
 ###
 
-<h2 align="left">About me</h2>
+<p align="left">My name is juarez Souza</p>
 
 ###
 
-<p align="left"> Sou Juarez Souza, estudante de Análise e Desenvolvimento de Sistemas na UNIVALI. Para me aprofundar ainda mais, busco conhecimento extra na plataforma Alura, onde me aperfeiçoo nas tecnologias mais relevantes do mercado.<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
+<h2 align="left"></h2>
+
+###
+
+<p align="left">💻Me chamo Juarez Souza <br>🎓 Estudante de Análise e Desenvolvimento de Sistemas (ADS)<br>📚 Sempre buscando aprender mais sobre programação, tecnologia e produtividade.</p>
 
 ###
 
