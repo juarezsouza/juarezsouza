@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is ... and I'm a ..., from ....</p>
+<p align="left">Prazer Juarez</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
+<p align="left"> Sou Juarez Souza, estudante de Análise e Desenvolvimento de Sistemas na UNIVALI. Para me aprofundar ainda mais, busco conhecimento extra na plataforma Alura, onde me aperfeiçoo nas tecnologias mais relevantes do mercado.<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
 
 ###
 
